@@ -272,6 +272,10 @@ header{
   margin-top: 40px;
 }
 
+.portfolio{
+  flex-direction: column;
+}
+  
 .profile{
   margin-left: 20px;
 }
